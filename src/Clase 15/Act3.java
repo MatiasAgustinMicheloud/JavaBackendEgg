@@ -15,5 +15,6 @@ public class Act3 {
             pos1 = pos2;
             pos2 = suma;
         }
+
     }
 }
